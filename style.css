@@ -15,3 +15,16 @@ body {
 .heading h3 {
     font-size:22px;
 }
+
+#copyright_footer {
+    position: fixed;
+    width:100%;
+    bottom:0;
+    background-color: black;
+    color:white;
+    line-height: 3;
+}
+
+#start, #status, #restart {
+    font-size: 22px;
+}
